@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets>
+    <file id="database">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/hellaspath.sqlite</downloadUrl>
+        <localFileName>hellaspath.sqlite</localFileName>
+        <desc>Βάση δεδομένων</desc>
+		<version>2020-05-04</version>
+    </file>
+
+    <file id="themes">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/elevate4.zip</downloadUrl>
+        <downloadFileName>elevate4.zip</downloadFileName>
+        <unzipFolder>themes/elevate4/</unzipFolder>
+		<localFileName>themes/elevate4/Elevate.xml</localFileName>
+        <desc>Προεπιλεγμένο μοτίβο</desc>
+		<version>2020-02-04</version>
+    </file>
+    <file id="pois">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/poi.sqlite</downloadUrl>
+        <localFileName>poi.sqlite</localFileName>
+        <desc>Σημεία ενδιαφέροντος</desc>
+		<version>2018-01-01</version>
+    </file>
+    
+    <file id="online-maps">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/online_maps.xml</downloadUrl>
+        <localFileName>online-maps.xml</localFileName>
+        <desc>Λίστα χαρτών με σύνδεση</desc>
+		<version>2020-06-23</version>
+    </file>
+</assets>
