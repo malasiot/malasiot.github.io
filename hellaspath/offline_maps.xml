@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<maps>
+  <MapsforgeTileSource id="greece">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/greece.zip</downloadUrl>
+    <localFileName>maps/hellaspath/greece.map</localFileName>
+    <downloadFileName>greece.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Ελλάδα</title>
+    <description>Αναλυτικός χάρτης Ελλάδας με ισουψείς (202MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="makedonia">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/makedonia.zip</downloadUrl>
+    <localFileName>maps/hellaspath/makedonia.map</localFileName>
+    <downloadFileName>makedonia.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Κεντρική Μακεδονία</title>
+    <description>Όλυμπος, Πιέρια, Άθωνας, Βόρας, Παικο, Βέρμιο, Μπέλες, Παγγαίο, Φαλακρό, Δυτική Ροδόπη (30MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="thraki">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/thraki.zip</downloadUrl>
+    <localFileName>maps/hellaspath/thraki.map</localFileName>
+    <downloadFileName>thraki.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Ανατολική Μακεδονία &amp; Θράκη</title>
+    <description>Ανατολική Ροδόπη, Παπίκιο, Νέστος, Θάσος, Σαμοθράκη (11MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="west-makedonia-epirus">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/west-makedonia-epirus.zip</downloadUrl>
+    <localFileName>maps/hellaspath/west-makedonia-epirus.map</localFileName>
+    <downloadFileName>west-makedonia-epirus.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Δυτική Μακεδονία &amp; Ήπειρος</title>
+    <description>Βαρνούντας, Βίτσι, Βοιο, Γράμμος, Βόρεια και Νότια Πίνδος, Όρη Σουλίου, Άγραφα, Κέρκυρα (30MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="peloponese">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/peloponese.zip</downloadUrl>
+    <localFileName>maps/hellaspath/peloponese.map</localFileName>
+    <downloadFileName>peloponese.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Πελοπόνησσος</title>
+    <description>Βουνά Πελοπόνησου, Ζάκυνθος, Κεφαλονιά (32MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="thessaly">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/thessaly.zip</downloadUrl>
+    <localFileName>maps/hellaspath/thessaly.map</localFileName>
+    <downloadFileName>thessaly.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Θεσσαλία</title>
+    <description>Κίσσαβος, Πήλιο, Σποράδες (12MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="sterea">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/sterea.zip</downloadUrl>
+    <localFileName>maps/hellaspath/sterea.map</localFileName>
+    <downloadFileName>sterea.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Στερεά Ελλάδα</title>
+    <description>Οιτη, Βαρδούσια, Γκιώνα, Παρνασσός, Τυμφρηστός, Ακαρνανικά Όρη (20MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="attika">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/attika.zip</downloadUrl>
+    <localFileName>maps/hellaspath/attika.map</localFileName>
+    <downloadFileName>attika.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Αττική &amp; Ευβοια</title>
+    <description>Πάρνηθα, Γεράνεια, Όχη, Δίρφυ (38MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="crete">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/crete.zip</downloadUrl>
+    <localFileName>maps/hellaspath/crete.map</localFileName>
+    <downloadFileName>crete.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Κρήτη, Νότο Αιγαίο</title>
+    <description>Κρήτη, Δωδεκάνησα, Κυκλάδες (24MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+  <MapsforgeTileSource id="aegean">
+    <downloadUrl>https://vision.iti.gr/hellaspath/data/maps/aegean.zip</downloadUrl>
+    <localFileName>maps/hellaspath/aegean.map</localFileName>
+    <downloadFileName>aegean.zip</downloadFileName>
+    <unzipFolder>maps/hellaspath/</unzipFolder>
+    <title>Βόρειο Αιγαίο</title>
+    <description>Λήμνος, Λέσβος, Χίος, Σάμος, Σύρος, Σκύρος, Άνδρος, Τήνος (13MB) </description>
+    <attribution>Openstreetmap Data</attribution>
+    <version>2020-05-04</version>
+  </MapsforgeTileSource>
+</maps>

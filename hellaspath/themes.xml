@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<themes>
+    <theme id="oam">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/themes/OAM.zip</downloadUrl>
+        <localFileName>oam.zip</localFileName>
+        <unzipFolder>themes/oam/</unzipFolder>
+		<title>OpenAndroMaps HC</title>
+    </theme>
+
+    <theme id="lightning">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/themes/Lightning.zip</downloadUrl>
+        <downloadFileName>lightning.zip</downloadFileName>
+        <unzipFolder>themes/lightning/</unzipFolder>
+		<title>Lightning</title>
+    </theme>
+
+    <theme id="tiramisu">
+        <downloadUrl>https://vision.iti.gr/hellaspath/data/themes/Tiramisu.zip</downloadUrl>
+        <localFileName>tiramisu.zip</localFileName>
+        <unzipFolder>themes/tiramisu/</unzipFolder>
+		<title>Tiramisu</title>
+    </theme>
+</themes>

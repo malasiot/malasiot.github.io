@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<maps>
+  <OnlineTileSource id="osm-mapnik">
+        <url>https://${s}.tile.openstreetmap.org/${z}/${x}/${y}.png</url>
+        <title>OpenStreetmap</title>
+        <description>Openstreetmap Mapnik</description>
+        <minZoom>0</minZoom>
+        <maxZoom>18</maxZoom>
+        <serverParts>a,b,c</serverParts>
+    </OnlineTileSource>
+
+  <OnlineTileSource id="opentopomap">
+        <url>https://${s}.tile.opentopomap.org/${z}/${x}/${y}.png</url>
+        <title>OpenTopoMap</title>
+        <description>OpenTopoMap Τοπογραφικός Χάρτης</description>
+        <minZoom>0</minZoom>
+        <maxZoom>18</maxZoom>
+        <serverParts>a,b,c</serverParts>
+	<attribution>Kartendaten: © OpenStreetMap-Mitwirkende, SRTM | Kartendarstellung: © OpenTopoMap (CC-BY-SA)</attribution>
+    </OnlineTileSource>
+
+    <WMSTileSource id="ktima-wms">
+        <url>https://gis.ktimanet.gr/wms/wmsopen/wmsserver.aspx</url>
+        <title>Κτηματολόγιο</title>
+        <description>Αεροφωτογραφίες Κτηματολόγιο Α.Ε.</description>
+        <format>image/png</format>
+        <layers>KTBASEMAP</layers>
+        <minZoom>0</minZoom>
+        <maxZoom>18</maxZoom>
+    </WMSTileSource>
+</maps>
