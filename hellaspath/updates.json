@@ -1,0 +1,75 @@
+[
+    { 
+    	"id": 			"greece", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"makedonia", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"thraki", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"west-makedonia-epirus", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"peloponese", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"thessaly", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+    { 
+    	"id": 			"sterea", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+{ 
+    	"id": 			"attika", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+ { 
+    	"id": 			"crete", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+{ 
+    	"id": 			"aegean", 
+    	"type": 		"maps",
+    	"version":		"3"
+	},
+{ 
+	"id": "database",
+    	"type": 		"assets",
+    	"version":		"15"
+	},
+{ 
+	"id": "pois",
+    	"type": 		"assets",
+    	"version":		"2" },
+{ 
+	"id": "themes",
+    	"type": 		"assets",
+    	"version":		"6" },
+{ 
+	"id": "offline-maps",
+    	"type": 		"assets",
+    	"version":		"3" },
+{ 
+	"id": "online-maps",
+    	"type": 		"assets",
+    	"version":		"2" }
+
+]
+	
